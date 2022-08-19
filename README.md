@@ -8,3 +8,6 @@ Temperature Sensor with LCD
 4. LCD
 5. Breadboard or PCB
 6. Jumper/Cable
+
+Detail official information
+https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806
